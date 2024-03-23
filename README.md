@@ -5,3 +5,9 @@
 ## Download & Install Qt Creator
 
 You can get `Qt Creator` [here](https://www.qt.io/download) or in your package manager.
+
+
+## CMake Build System
+
+I have decided to use CMake as the main build system during this course since it is more widely used for C++ projects.
+CMake is well integrated into the Qt Creator suite and projects cane still be built without leaving the Qt Creator application.
